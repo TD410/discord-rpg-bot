@@ -1,0 +1,132 @@
+{
+  "tầng2-z": {
+    "roleid": "405717688636145660",
+    "locationid": "405717148988866560",
+    "isopen": 0
+  },
+  "tầng2-y": {
+    "roleid": "405717644277317632",
+    "locationid": "405717087051317250",
+    "isopen": 0
+  },
+  "tầng2-hànhlang": {
+    "roleid": "405717602615427077",
+    "locationid": "405717190826917899",
+    "isopen": 1
+  },
+  "tầng2-phònggym": {
+    "roleid": "405717549460750346",
+    "locationid": "405717023377719299",
+    "isopen": 1
+  },
+  "tầng2-2-d": {
+    "roleid": "405717507987734530",
+    "locationid": "405716950774185984",
+    "isopen": 0
+  },
+  "tầng2-2-c": {
+    "roleid": "405717475649519617",
+    "locationid": "405716917249114124",
+    "isopen": 0
+  },
+  "tầng2-2-b": {
+    "roleid": "405717441377992734",
+    "locationid": "405716880381181952",
+    "isopen": 0
+  },
+  "tầng2-2-a": {
+    "roleid": "405717369781223424",
+    "locationid": "405716837188501524",
+    "isopen": 0
+  },
+  "tầng1-x": {
+    "roleid": "405714079471370253",
+    "locationid": "405704093437394957",
+    "isopen": 0
+  },
+  "tầng1-hànhlang": {
+    "roleid": "405714000614260736",
+    "locationid": "405703720681209856",
+    "isopen": 1
+  },
+  "tầng1-phòngytế": {
+    "roleid": "405713915918680064",
+    "locationid": "405703680327680010",
+    "isopen": 1
+  },
+  "tầng1-phònggiảitrí": {
+    "roleid": "405713831549992961",
+    "locationid": "405703599029485588",
+    "isopen": 1
+  },
+  "tầng1-1-d": {
+    "roleid": "405713788936126465",
+    "locationid": "405703495941881857",
+    "isopen": 1
+  },
+  "tầng1-1-c": {
+    "roleid": "405713739921358848",
+    "locationid": "405703460986683393",
+    "isopen": 1
+  },
+  "tầng1-1-b": {
+    "roleid": "405713645532610570",
+    "locationid": "405703430007554048",
+    "isopen": 1
+  },
+  "tầng1-1-a": {
+    "roleid": "405713347653402624",
+    "locationid": "405703377943789579",
+    "isopen": 1
+  },
+  "tầnghầm-khothiếtbị": {
+    "roleid": "405702231229464578",
+    "locationid": "405700690606817290",
+    "isopen": 0
+  },
+  "tầnghầm-hànhlang": {
+    "roleid": "405701363268583427",
+    "locationid": "405700643937058817",
+    "isopen": 0
+  },
+  "tầnghầm-phòngmáy": {
+    "roleid": "405701158489948160",
+    "locationid": "405700603835056131",
+    "isopen": 0
+  },
+  "khoangtàu-hồbơi": {
+    "roleid": "405697588570882048",
+    "locationid": "405693652665630721",
+    "isopen": 0
+  },
+  "khoangtàu-bếp": {
+    "roleid": "405697414163595264",
+    "locationid": "405693617634803740",
+    "isopen": 0
+  },
+  "khoangtàu-hànhlang": {
+    "roleid": "405697306546143232",
+    "locationid": "405693557458862080",
+    "isopen": 0
+  },
+  "khoangtàu-phòngdạhội": {
+    "roleid": "405697143999823873",
+    "locationid": "405693484755058690",
+    "isopen": 0
+  },
+  "khoangtàu-phòngthủythủđoàn": {
+    "roleid": "405696826902052864",
+    "locationid": "405693371085094914",
+    "isopen": 0
+  },
+  "khoangtàu-phònglái": {
+    "roleid": "405697020335226921",
+    "locationid": "405693445198577665",
+    "isopen": 0
+  },
+  "khoangtàu-boongtàu": {
+    "roleid": "405696367688941568",
+    "locationid": "405693269872214000",
+    "isopen": 0
+  }
+}
